@@ -1,0 +1,15 @@
+@import "./normalize/normalize";
+@import "./variable";
+@import "./font";
+
+html {
+  font-size: 62.5%;
+}
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+* {
+  box-sizing: border-box;
+}
